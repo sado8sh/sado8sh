@@ -85,10 +85,10 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadhamdi&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhamdi&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadhamdi&show_icons=true&theme=radical" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhamdi&layout=compact&theme=radical" alt="Most Used Languages" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhamdi&theme=radical" width="34%" />
 </p>
-
 ---
 
 📫 **Let's Connect**
@@ -97,6 +97,6 @@
 - 🌐 [Portfolio](https://saad-hamdi.vercel.app/)  
 - 📧 saadhamdi.dev@gmail.com  
 
-> "Victory belongs to the most persistent." – You’ll find me coding even in the battlefield ⚔️
+> "Code is my battlefield, persistence is my weapon." ⚔️
 
 ---
