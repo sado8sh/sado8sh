@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTFyNXhvbHU3YW53eXQwbDV3MXlsaWlkMTA3N2t5bzdibmFiaDVnYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oqmwkTtUlCBQOdscu/giphy.gif" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hey, I'm Saad 👋</h1>
 <h3 align="center">aka the Coding Warrior ⚔️</h3>
