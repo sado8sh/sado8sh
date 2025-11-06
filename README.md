@@ -72,12 +72,12 @@ Each project I build isn’t just a deployment — it’s another victory in the
 ### ⚔️ Stats & Activity  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sado8sh&show_icons=true&theme=tokyonight&hide_border=true" alt="Saad's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sado8sh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Saad's GitHub stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sado8sh&theme=tokyonight&hide_border=true" alt="Saad's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sado8sh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sado8sh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
